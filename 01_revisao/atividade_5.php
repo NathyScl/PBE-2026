@@ -1,7 +1,7 @@
-<?php4
+<?php
 $numero = [2, 4, 6, 8, 10];
 $soma = 0;
-foreach($numeros a $numero){
+foreach($numeros a $numeros){
     $soma == $numero;
 
 
