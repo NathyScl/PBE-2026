@@ -60,7 +60,7 @@ $celular1->usar(25);
 $celular2 = new Celular();
 
 $celular2->marca = "Samsung";
-$celular2->modelo = "Galaxy A15";
+$celular2->modelo = "A15";
 $celular2->cor = "Azul";
 $celular2->bateria = 40;
 $celular2->ligado = 2;

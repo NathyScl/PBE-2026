@@ -31,4 +31,5 @@
     <?php if ($desconto < 0): ?>
         <h2>Parabens voê ganhou um desconto !!!!</h2>
         <?php endif ?>
-        
+        <h2>Total da compra <?=$total?></h2>
+    </body>
